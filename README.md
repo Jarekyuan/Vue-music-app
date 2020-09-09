@@ -7,5 +7,27 @@
 NeteaseCloudMusicApi 3.29.0 :
 <a>https://github.com/Binaryify/NeteaseCloudMusicApi<a>
 
-<h3>项目截图<h3>
+
 ![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/1.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/2.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/3.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/4.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/5.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/6.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/7.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/8.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/9.png
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/10.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/11.png)
+
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/12.png)
