@@ -8,3 +8,4 @@ NeteaseCloudMusicApi 3.29.0 :
 <a>https://github.com/Binaryify/NeteaseCloudMusicApi<a>
 
 <h3>项目截图<h3>
+![Image text](https://github.com/Jarekyuan/pic-img/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/1.png)
