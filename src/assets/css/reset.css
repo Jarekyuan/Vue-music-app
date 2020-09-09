@@ -211,12 +211,6 @@ input {
 .flex-wrap {
   flex-wrap: wrap;
 }
-.jc-start {
-  justify-content: flex-start;
-}
-.jc-end {
-  justify-content: flex-end;
-}
 .jc-center {
   justify-content: center;
 }

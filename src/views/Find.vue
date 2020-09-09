@@ -1,6 +1,9 @@
 <template>
   <div>
-    <div class="app-header base-color">Jonas'music APP</div>
+    <div class="app-header base-color">
+      <div @click="gomy"><i class="iconfont icon-gongnenghe" ></i></div>
+      Jonas'Music
+    </div>
 
     <!-- 导航部分(样式) -->
     <div class="tab w100 d-flex jc-around">
@@ -33,6 +36,11 @@ export default {
   data() {
     return {};
   },
+  methods: {
+    gomy() {
+      this.$router.push('/aboutMe')
+    }
+  }
 };
 </script>
 
@@ -45,9 +53,27 @@ export default {
   line-height: 40px;
   font-size: 22px;
   font-weight: 600;
+  position: relative;
+  .iconfont {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    font-size: 17px;
+    font-weight: 600;
+  }
+}
+.tab {
+  margin-bottom: 15px;
+  .tab-item {
+    padding-bottom: 3px;
+    color: #1a73e8;
+  }
 }
 .active {
-  font-weight: 700;
-  color: #111;
+  font-weight: 600;
+  color: #1a73e8;
+  display: inline-block;
+  height: 23px;
+  border-bottom: 2px solid #1a73e8;
 }
 </style>

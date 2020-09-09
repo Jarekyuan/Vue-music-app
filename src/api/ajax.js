@@ -4,6 +4,8 @@
 //  mounted生命周期函数调用后加 await
 
 import axios from 'axios'
+
+
 export default function ajax(url = '', data = {}, type = 'GET') {
     return new Promise(function(resolve, reject) {
         let promise

@@ -26,23 +26,23 @@ module.exports = {
 
 
 
-            /* //使用externals设置排除项 (减小体积)
-            config.set('externals', {
-                vue: 'Vue',
-                'vue-router': 'VueRouter',
-                axios: 'axios',
-                lodash: '_',
-                echarts: 'echarts',
-                nprogress: 'NProgress',
-                'vue-quill-editor': 'VueQuillEditor'
-            });
+            //使用externals设置排除项 (减小体积)
+            // config.set('externals', {
+            //     vue: 'Vue',
+            //     'vue-router': 'VueRouter',
+            //     axios: 'axios',
+            //     lodash: '_',
+            //     echarts: 'echarts',
+            //     nprogress: 'NProgress',
+            //     'vue-quill-editor': 'VueQuillEditor'
+            // });
 
             //使用插件 (定制首页内容)
-            config.plugin('html').tap(args => {
-                //添加参数isProd
-                args[0].isProd = true
-                return args
-            }) */
+            // config.plugin('html').tap(args => {
+            //     //添加参数isProd
+            //     args[0].isProd = true
+            //     return args
+            // }) 
         });
 
 
